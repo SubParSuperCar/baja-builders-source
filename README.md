@@ -1,4 +1,7 @@
 # baja-builders-source
-The Luau source tree for Baja Builders on Roblox.
 
-This source code is around a year old as of writing this and may have incomplete portions. The main purpose of this repo is to archive my hard work. Feel free to use some of these resources in your own projects as long as you credit me properly :)
+The Luau source code for Baja Builders on Roblox.
+
+The purpose of this repository is to archive and share my work, rather than to provide a functional project. This project was quietly abandoned in mid-2025 in lieu of other development efforts.
+
+Feel free to use portions of this source code in your own projects, provided that you give proper credit and cite this repository. :)
